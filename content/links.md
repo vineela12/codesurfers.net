@@ -26,6 +26,7 @@ A modern introduction to web development using Javascript.
 tutorial.
 
 - [The Python Tutorial](http://docs.python.org/3/tutorial/)
+- [Head First Python](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449382674_sampler.pdf)
 
 Nice tutorial that will get you up to speed with basic programming.
 
